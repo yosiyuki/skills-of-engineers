@@ -17,6 +17,8 @@
 * ports and iptables
 * linux distributions
 * package manager and package versions
+* aws
+* heroku
 
 ## Web security
 
@@ -31,6 +33,7 @@
 * making basic application with scaffold
 * understanding ActiveRecord
 * understanding MVC model in RoR
+* finding and using Gems
 * using concerns
 * implement Ajax
 * understanding asset pipeline
