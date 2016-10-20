@@ -13,12 +13,14 @@
 * memory, CPU and disks of phisical server
 * basic linux commands
 * using shell scripts
+* collect and maintain logs
 * understanding daemons
 * ports and iptables
 * linux distributions
 * package manager and package versions
 * aws
 * heroku
+* newrelic
 
 ## Web security
 
@@ -39,6 +41,13 @@
 * understanding asset pipeline
 * making Gem
 * reading Rails code
+
+### Gems
+
+* paperclip and Imagemagick
+* exception notification
+* devise
+* nokogiri
 
 ## Object Oriented Programming
 
@@ -82,8 +91,12 @@
 * functional test
 * regression test
 * rspec
+* factory_girl
 
 ## Web programming
+
+* understand cache
+* scraping
 
 ### CSS
 
@@ -111,6 +124,9 @@
 ## Web server
 
 * basic knowledge of web servers
+* understanding performance
+* dynamic and static contents
+* Etag
 * Apache
 * Nginx
 * unicorn
@@ -121,8 +137,11 @@
 * relational databases
 * PostgreSQL / MySQL / SQLite
 * normalize, denormalize
-* index
+* index and indexed search, nonindexed search
 * transaction
+* understanding performance
+* deadlock
+* performance optimizations
 * debugging SQL
 * No SQL
 
