@@ -92,6 +92,7 @@
 * regression test
 * rspec
 * factory_girl
+* capybara
 
 ## Web programming
 
